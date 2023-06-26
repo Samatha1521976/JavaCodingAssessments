@@ -1,0 +1,11 @@
+                Exception Handling
+--------------------------------------------------------------------
+Problem Statement:
+-------------------------------------------------------------------
+Declare a class SampleExceptionDemo with a instance method.
+int arrayAccessMeth(int arr[],int pos)
+This method takes an array and position to access an array from user input in Main method.
+it return the element of the array for the given position.if it is not succesful,then it throws appropriate Exception
+
+In main method ,call arrayAccessMeth method take number of elements of array,arrayelements,position of array element to access from user input and invoke the method with appropriate arguments.
+
